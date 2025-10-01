@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Test Blog</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo -- 0.150.1</generator>
-    <language>en-us</language>
+    <description>Recent content in Posts on Test Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
     <lastBuildDate>Wed, 01 Oct 2025 02:23:12 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,8 +14,7 @@
       <link>http://localhost:1313/posts/test/</link>
       <pubDate>Wed, 01 Oct 2025 02:23:12 -0500</pubDate>
       <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;p&gt;#Hello World!
-content.&lt;/p&gt;</description>
+      <description>&lt;p&gt;#Hello World!&#xA;content.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

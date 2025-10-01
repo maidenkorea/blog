@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Test Blog</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Test Blog</description>
+    <title>Fatags on PaperMod RTL</title>
+    <link>http://localhost:1313/fa/fatags/</link>
+    <description>Recent content in Fatags on PaperMod RTL</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>fa</language>
     <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fa/fatags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
