@@ -53,6 +53,7 @@ jobs:
       - name: Get Theme
         run: git submodule update --remote
       - name: Build with Hugo
+        working-directory: maidenblog/
         run: |
           hugo \
             --buildDrafts --gc \
