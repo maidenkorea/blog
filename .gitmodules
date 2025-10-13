@@ -1,3 +1,3 @@
 [submodule "maidenblog/themes/PaperMod"]
 	path = maidenblog/themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod/tree/7cf752f8644fea1fc3dc7299352718d492c55182
+	url = https://github.com/adityatelange/hugo-PaperMod.git
