@@ -84,34 +84,34 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Three Halves"
+    Title: "Not Quite There."
     Content: >
-      *"And the town I grew up in was one half train tracks, one half hotels, and one half fast food restaurants."*
+      *" Things change, friends leave, and life doesn't stop for anybody. "*
 
       - Hello! I am a Software Engineer and Car Enthusiast, this blog is mainly for sharing my musings and documenting the little things that make me happy.
 
-      - I am a driver and media for a small friend group known as Such. You can find some of our socials linked below!
+      - Here you'll find posts about my car and coding journey. I am a driver and media for a small friend group known as Such, and I am a software engineer at a tech company you've probably heard of.
 
-      - Feel free to reach out if you have any questions, comments, or concerns regarding any of my posts here. 
+      - Feel free to reach out with any questions, comments, or concerns regarding any of my posts here!
 
   socialIcons:
     - name: github
       title: My Github
       url: "https://github.com/maidenkorea"
-    - name: Discord
-      title: Add me on Discord!
-      url: ""
     - name: Instagram
       title: Instagram
-      url: "https://instagram.com/such.racing"
+      url: "https://instagram.com/222duvet"
     - name: YouTube
       title: YouTube
-      url: "https://www.youtube.com/@suchracing"
+      url: "https://www.youtube.com/@ruuia"
+    - name: other
+      title: Check out Such!
+      url: "https://such-racing.co"
 
   editPost:
     URL: "https://github.com/maidenkorea/blog/discussions"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # dont append file path to Edit link
 
   # label:
   # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
