@@ -51,7 +51,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Just for Fun"
-  author: maidenkorea
+  author: MaidenKorea
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -96,7 +96,7 @@ params:
 
   socialIcons:
     - name: github
-      title: My Github
+      title: Github
       url: "https://github.com/maidenkorea"
     - name: YouTube
       title: YouTube
