@@ -84,9 +84,9 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Not Quite There."
+    Title: "@maidenkorea"
     Content: >
-      *" Things change, friends leave, and life doesn't stop for anybody. "*
+      *"Things change, friends leave, and life doesn't stop for anybody."*
 
       - Hello! I am a Software Engineer and Car Enthusiast, this blog is mainly for sharing my musings and documenting the little things that make me happy.
 
@@ -98,12 +98,12 @@ params:
     - name: github
       title: My Github
       url: "https://github.com/maidenkorea"
-    - name: Instagram
-      title: Instagram
-      url: "https://instagram.com/222duvet"
     - name: YouTube
       title: YouTube
       url: "https://www.youtube.com/@ruuia"
+    - name: Instagram
+      title: Instagram
+      url: "https://instagram.com/222duvet"
     - name: other
       title: Check out Such!
       url: "https://such-racing.co"
