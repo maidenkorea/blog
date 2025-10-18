@@ -51,7 +51,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Just for Fun"
-  author: Dabin
+  author: @maidenkorea
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -86,7 +86,7 @@ params:
   homeInfoParams:
     Title: "@maidenkorea"
     Content: >
-      *"Things change, friends leave, and life doesn't stop for anybody."*
+      *Things change, friends leave, and life doesn't stop for anybody.*
 
       - Hello! I am a Software Engineer and Car Enthusiast, this blog is mainly for sharing my musings and documenting the little things that make me happy.
 
