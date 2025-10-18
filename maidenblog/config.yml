@@ -2,7 +2,7 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://blog.maiden.kr/"
 title: maiden.kr
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+copyright: "© [MaidenKorea](https://github.com/maidenkorea/)"
 theme: [PaperMod]
 
 enableInlineShortcodes: true
@@ -68,7 +68,7 @@ params:
   ShowPageNums: true
   ShowToc: true
   # comments: false
-  images: ["images/papermod-cover.png"]
+  # images: ["images/papermod-cover.png"]
 
   profileMode:
     enabled: false
@@ -87,27 +87,28 @@ params:
     Title: "Three Halves"
     Content: >
       *And the town I grew up in was one half train tracks, one half hotels, and one half fast food restaurants.*
-
-      - The musings of a bad dev and car enthusiast.
+      - Hello! I am a Software Engineer and Car Enthusiast, this blog is mainly for sharing my musings and documenting the little things that make me happy.
+      - I am a driver and media for a small friend group known as Such. You can find some of our socials linked below!
+      - Feel free to reach out if you have any questions, comments, or concerns regarding any of my posts here. 
 
   socialIcons:
     - name: github
       title: My Github
       url: "https://github.com/maidenkorea"
     - name: Discord
-      title: Join discord community
-      url: "https://discord.gg/ahpmTvhVmp"
-    - name: YouTube
-      title: YouTube
-      url: "https://www.youtube.com/@suchracing"
+      title: Add me on Discord!
+      url: ""
     - name: Instagram
       title: Instagram
       url: "https://instagram.com/such.racing"
+    - name: YouTube
+      title: YouTube
+      url: "https://www.youtube.com/@suchracing"
 
-  editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+    # URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    # Text: "Suggest Changes" # edit text
+    # appendFilePath: true # to append file path to Edit link
 
   # label:
   # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
